@@ -3,10 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+code_obfuscate/venv
 # Other files and folders
 .settings/
-
+venv
 # Executables
 *.swf
 *.air
